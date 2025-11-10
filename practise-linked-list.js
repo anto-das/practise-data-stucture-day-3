@@ -13,3 +13,4 @@ while(current !== null){
     console.log(current)
     current = current.next
 }
+console.log(head)
